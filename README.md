@@ -3,6 +3,8 @@
 ### 실행영상
 ![2021-01-03 21-20-54 mkv_000004604](https://user-images.githubusercontent.com/60593969/103480438-b7cfdf00-4e17-11eb-801f-54cabd09ba80.gif)
 
+C++과 Python 도서를 goole에 검색후 이름을 전부 자동 screenshot으로 저장합니다.
+
 #### > selenium을 이용한 google screenshot automatic program
 1) google browser를 연다
 2) 검색창에 검색대상을 삽입
